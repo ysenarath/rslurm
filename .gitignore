@@ -1,0 +1,5 @@
+/slurm_remote.egg-info/
+/.idea/
+/examples/example_project/venv/
+.DS_Store
+__pycache__
